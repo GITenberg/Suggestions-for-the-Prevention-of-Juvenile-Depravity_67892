@@ -1,5 +1,8 @@
 _repo: Suggestions-for-the-Prevention-of-Juvenile-Depravity_67892
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67892-h/images/cover.jpg
 creator:
   author:
     agent_name: Rotch, Benjamin
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '54513'
     url: http://www.gutenberg.org/2009/agents/54513
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67892#Suggestions-for-the-Prevention-of-Juvenile-Depravity
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67892'
